@@ -1,0 +1,6 @@
+Tasks:
+
+1. Revise fruitUI.php to accept input from user.
+    Ask User to enter Fruit name and Color (from)
+    Pass the name and color to class (setter)
+    Display the values inthe class (setter)
